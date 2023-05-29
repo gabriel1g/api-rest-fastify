@@ -1,0 +1,19 @@
+{
+  "printWidth": 100,
+  "tabWidth": 2,
+  "semi": true,
+  "trailingComma": "es5",
+  "singleQuote": true,
+  "jsxSingleQuote": false,
+  "bracketSpacing": true,
+  "bracketSameLine": false,
+  "singleAttributePerLine": true,
+  "proseWrap": "always",
+  "arrowParens": "always",
+  "endOfLine": "lf",
+
+  "importOrder": ["<THIRD_PARTY_MODULES>", "^@", "^[./|../]"],
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true,
+  "importOrderCaseInsensitive": true
+}
